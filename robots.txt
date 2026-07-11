@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mhamidhussain113-cell.github.io/bpexch/sitemap.xml
